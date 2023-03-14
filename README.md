@@ -3,6 +3,9 @@ NHL_MVP is a tool using regression to predict the next NHL MVP.
 
 ![Hockey](hockey.jpg)
 
+## **Binder**
+https://hub.gke2.mybinder.org/user/mitchwalker12-nhl_mvp-hknqvb9n/lab
+
 ## **How It Works**
 1. Webscrapes & Parses data from hockey-reference.com.
   a. MVP Voting Data
